@@ -12,4 +12,4 @@ Grimnir is a replacement font for Skyrim UI. In order to use it you have to
 Exemple in use
 =======
 ![Specimen](https://raw.githubusercontent.com/jbmorizot/Grimnir/master/2014-11-26_00005.jpg)
-Skyrim is a game owned by Bethesda who detains rights.
+Skyrim is the property of Bethesda.
