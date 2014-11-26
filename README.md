@@ -13,3 +13,4 @@ Exemple in use
 =======
 ![Specimen](https://raw.githubusercontent.com/jbmorizot/Grimnir/master/2014-11-26_00005.jpg)
 Skyrim is the property of Bethesda.
+This software is offers without any warranty. If you destroy or corrupt your files I can't be taken as responsable (but hey no big risk :-)
