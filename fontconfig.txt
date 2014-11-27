@@ -2,7 +2,7 @@ fontlib "Interface\fonts_console.swf"
 fontlib "Interface\fonts_en.swf"
 fontlib "Interface\fonts_en_mod.swf"
 map "$ConsoleFont" = "Arial" Normal
-map "$StartMenuFont" = "Dragon_script" Normal
+map "$StartMenuFont" = "Grimnir" Normal
 map "$DialogueFont" = "Grimnir" Normal
 map "$EverywhereFont" = "Grimnir" Normal
 map "$EverywhereBoldFont" = "Grimnir" Normal
@@ -17,4 +17,4 @@ map "$DaedricFont" = "Daedric" Normal
 map "$MageScriptFont" = "Mage Script" Normal
 map "$SkyrimSymbolsFont" = "SkyrimSymbols" Normal
 map "$SkyrimBooks_UnreadableFont" = "SkyrimBooks_Unreadable" Normal
-validNameChars "`1234567890-=~!@#$%^&*():_+QWERTYUIOP[]ASDFGHJKL;'ZXCVBNM,./qwertyuiop{}\\asdfghjkl;'zxcvbnm<>?|¡¢£¤¥¦§¨©ª«®¯°²³´¶·¸¹º»¼½¾¿ÄÀÁÂÃÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüış ÿ "
+validNameChars "`1234567890-=~!@#$%^&*():_+QWERTYUIOP[]ASDFGHJKL;'ZXCVBNM,./qwertyuiop{}\\asdfghjkl;'zxcvbnm<>?|Â¡Â¢Â£Â¤Â¥Â¦Â§Â¨Â©ÂªÂ«Â®Â¯Â°Â²Â³Â´Â¶Â·Â¸Â¹ÂºÂ»Â¼Â½Â¾Â¿Ã„Ã€ÃÃ‚ÃƒÃ…Ã†Ã‡ÃˆÃ‰ÃŠÃ‹ÃŒÃÃÃÃÃ‘Ã’Ã“Ã”Ã•Ã–Ã—Ã˜Ã™ÃšÃ›ÃœÃÃÃŸÃ Ã¡Ã¢Ã£Ã¤Ã¥Ã¦Ã§Ã¨Ã©ÃªÃ«Ã¬Ã­Ã®Ã¯Ã°Ã±Ã²Ã³Ã´ÃµÃ¶Ã·Ã¸Ã¹ÃºÃ»Ã¼Ã½Ã¾ Ã¿Â "
