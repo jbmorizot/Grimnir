@@ -12,6 +12,7 @@ Grimnir is a replacement font for Skyrim UI. In order to use it you have to:
 OR you can open the *fontconfig.txt* file by yourself (you may want keep a copy, even if the original file is easily findable on the Internet), add the line *fontlib "Interface\fonts_en_mod.swf"*. and replace every occurence of the name "Futura Condensed" by "Grimnir".
 
 [DONWLOAD THE FONT](https://github.com/jbmorizot/Grimnir/raw/master/fonts_en_mod.swf)
+
 [DONWLOAD FONTCONFIG.TXT](https://github.com/jbmorizot/Grimnir/raw/master/fontconfig.txt)
 
 This font contains only latin glyphs, so Cyrillic and Japanese won't be displayed.
