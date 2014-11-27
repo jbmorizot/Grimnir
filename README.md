@@ -18,6 +18,12 @@ OR (if you have other typographic mods running and want to keep them) you can op
 [See fontconfig.txt](https://github.com/jbmorizot/Grimnir/raw/master/fontconfig.txt)
 
 
+<<<<<<< HEAD
+=======
+[DONWLOAD THE FONT](https://github.com/jbmorizot/Grimnir/raw/master/fonts_en_mod.swf)
+
+[DONWLOAD FONTCONFIG.TXT](https://github.com/jbmorizot/Grimnir/raw/master/fontconfig.txt)
+>>>>>>> origin/master
 
 This font contains only latin glyphs, so Cyrillic and Japanese won't be displayed.
 
