@@ -5,9 +5,9 @@ Grimnir is a replacement font for Skyrim UI. In order to use it you have to:
 
 1. Download the *Grimnir_Mod.zip* file. It contains the font encapsuled in a .swf file named *fonts_en_mod.swf* and the *fontconfig.txt* file that maps the font in Skyrim interface. Unzip it.
 
-2. Copy the *fonts_en_mod.swf* file into the _common/Skyrim/Data/Interface_ folder. DO NOT delete the original *fonts_en.swf* file (or whatever name it could have i.e. *fonts_FR.swf*) for it contains the other fonts needed to display the game properly. 
+2. Copy the *fonts_en_mod.swf* file into the _common/Skyrim/Data/Interface_ folder. DO NOT delete the original *fonts_en.swf* file for it contains the other fonts needed to display the game properly. 
 
-3. Copy the *fontconfig.txt* file in the same Interface folder to replace the original (you may want keep a copy in case you want to return to the original Futura condensed).
+3. Copy the *fontconfig.txt* file in the same Interface folder to replace the original (you may want to keep a copy in case you want to return to the original Futura condensed).
 
 OR (if you have other typographic mods running and want to keep them) you can open the original *fontconfig.txt* file by yourself, add the line *fontlib "Interface\fonts_en_mod.swf"* and replace every occurence of the name "Futura Condensed" by "Grimnir".
 
