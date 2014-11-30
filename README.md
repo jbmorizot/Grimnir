@@ -1,7 +1,9 @@
 Grimnir
 =======
 
-Grimnir is a replacement font for Skyrim UI. In order to use it you have to: 
+Grimnir is a replacement font for Skyrim UI. The aim of it is to provide a no-nonsense font with good legibility, at least better than Futura condensed, with a clean look. Even if it's a functionnal sans-serif, I wanted it more original than a Futura or a Grotesque. The shapes are warm, the capitals bold, and there are many details that give life to the words. I hope you'll enjoy it.
+
+In order to use it you have to: 
 
 1. Download the *Grimnir_Mod.zip* file. It contains the font encapsuled in a .swf file named *fonts_en_mod.swf* and the *fontconfig.txt* file that maps the font in Skyrim interface. Unzip it.
 
