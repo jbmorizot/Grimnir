@@ -21,9 +21,9 @@ This font contains only latin glyphs, so Cyrillic and Japanese won't be displaye
 
 Exemple in use
 =======
-![In Use](https://raw.githubusercontent.com/jbmorizot/Grimnir/master/2014-11-26_00005.jpg)
-![In Use](https://raw.githubusercontent.com/jbmorizot/Grimnir/master/2014-11-27_00004.jpg)
-![In Use](https://raw.githubusercontent.com/jbmorizot/Grimnir/master/2014-11-26_00002.jpg)
+![In Use](https://raw.githubusercontent.com/jbmorizot/Grimnir/master/Screenshots/2014-11-26_00005.jpg)
+![In Use](https://raw.githubusercontent.com/jbmorizot/Grimnir/master/Screenshots/2014-11-27_00004.jpg)
+![In Use](https://raw.githubusercontent.com/jbmorizot/Grimnir/master/Screenshots/2014-11-26_00002.jpg)
 Skyrim is the property of Bethesda, and so are these screenshots of the game.
 
 ![Specimen](https://raw.githubusercontent.com/jbmorizot/Grimnir/master/GrimnirSpecimen.jpg)
